@@ -11,6 +11,7 @@
 - Command to run the deployment
   - use port forwarding to interact with the pods from our local machine.
   - copy the local address received by executing the below command and cpy & paste the address on the web-browser for deployment to run succressfully locally.
+    
 ![image](https://github.com/swatipal1010/Deployments-in-k8s-cluster/assets/110754474/34991d84-ba59-4bb1-88a6-90d1e7e610c4)
 
 - Result in the browser
